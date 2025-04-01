@@ -1,0 +1,6 @@
+cd /path/to/linux-shell-scripting-design
+mkdir scripts
+mv file_scanner.sh file_mover.sh setup.sh logger.sh scripts/
+git add scripts/
+git commit -m "Organized scripts into scripts folder"
+git push origin main
